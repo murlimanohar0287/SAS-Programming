@@ -1,0 +1,47 @@
+4	US	James	Kvarniq	6/27/1974	Orion Club members low activity
+12	US	David	Black	4/12/1969	Orion  Club members medium activity
+13	DE	Markus	Sepke	7/21/1988	Orion Club Gold members low activity
+16	DE	Ulrich	Heyde	1/16/1939	Internet/Catalog Customers
+17	US	Jimmie	Evans	8/17/1954	Orion  Club members medium activity
+18	US	Tonie	Asmussen	2/2/1954	Orion Club members low activity
+19	DE	Oliver S.	Füßling	2/23/1964	Orion Club Gold members high activity
+20	US	Michael	Dineley	4/17/1959	Orion  Club members medium activity
+23	US	Tulio	Devereaux	12/2/1949	Internet/Catalog Customers
+33	DE	Rolf	Robak	2/24/1939	Orion  Club members medium activity
+34	US	Alvan	Goheen	1/18/1984	Orion Club members low activity
+36	US	Phenix	Hill	4/2/1964	Internet/Catalog Customers
+39	US	Alphone	Greenwald	7/25/1984	Orion Club Gold members high activity
+41	AU	Wendell	Summersby	12/2/1964	Orion  Club members medium activity
+42	DE	Thomas	Leitmann	2/9/1979	Orion Club members low activity
+50	DE	Gert-Gunter	Mendler	1/16/1934	Orion Club Gold members high activity
+52	US	Yan	Kozlowski	4/6/1969	Orion  Club members medium activity
+56	US	Roy	Siferd	2/1/1934	Orion  Club members medium activity
+61	DE	Carsten	Maestrini	7/8/1944	Orion Club Gold members high activity
+63	US	James	Klisurich	12/25/1969	Orion Club Gold members medium activity
+75	US	Mikel	Spetz	6/18/1984	Orion Club members low activity
+88	US	Attila	Gibbs	2/19/1959	Orion  Club members medium activity
+92	US	Lendon	Celii	9/14/1944	Orion Club members low activity
+171	AU	Robert	Bowerman	2/22/1974	Orion  Club members high activity
+183	AU	Duncan	Robertshawe	3/25/1944	Orion Club members low activity
+195	AU	Cosi	Rimmington	11/11/1944	Orion Club members low activity
+215	AU	Ramesh	Trentholme	5/16/1949	Orion Club Gold members medium activity
+544	TR	Avni	Argac	5/20/1964	Orion  Club members high activity
+908	TR	Avni	Umran	12/6/1979	Orion Club Gold members high activity
+928	TR	Bulent	Urfalioglu	8/11/1969	Orion Club members low activity
+1033	TR	Selim	Okay	10/14/1979	Orion Club members low activity
+1100	TR	Ahmet	Canko	1/19/1964	Orion Club members low activity
+1684	TR	Carglar	Aydemir	10/17/1974	Orion Club members low activity
+2618	ZA	Theunis	Brazier	3/21/1949	Orion  Club members medium activity
+2788	TR	Serdar	Yucel	1/2/1944	Orion  Club members high activity
+11171	CA	Bill	Cuddy	10/16/1986	Orion Club Gold members low activity
+12386	IL	Avinoam	Zweig	5/12/1959	Internet/Catalog Customers
+14104	IL	Avinoam	Zweig	10/10/1964	Orion  Club members medium activity
+14703	IL	Eyal	Bloch	9/24/1969	Orion  Club members high activity
+19444	IL	Avinoam	Zweig	9/28/1959	Orion  Club members high activity
+19873	IL	Avinoam	Tuvia	6/14/1984	Orion Club Gold members high activity
+26148	CA	Andreas	Rennie	7/18/1934	Orion  Club members medium activity
+70046	CA	Tommy	Mcdonald	1/20/1959	Orion Club members low activity
+70059	CA	Colin	Byarley	1/20/1934	Orion  Club members medium activity
+70108	CA	Patrick	Leach	4/14/1939	Orion Club members low activity
+70210	CA	Alex	Santinello	4/22/1986	Orion  Club members medium activity
+70221	CA	Kenan	Talarr	2/10/1964	Orion  Club members high activity
